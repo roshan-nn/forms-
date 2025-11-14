@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var isPalindrome = function(x) {
     if(x<0) return false;
     x=x.toString();
@@ -14,3 +15,10 @@ var isPalindrome = function(x) {
     }
     return true;
 };
+=======
+
+    function myFunction() {
+        document.getElementById("Form")
+        console.log("fname"); 
+    }
+>>>>>>> 1917b697d2a01f51f03949d8e430ef4f94c71a21
